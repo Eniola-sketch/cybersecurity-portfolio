@@ -83,6 +83,7 @@ This is a security issue because HTTP does not encrypt communication. Websites t
 
 ---
 
+
 ## Screenshot
 
 <img width="928" height="600" alt="image" src="https://github.com/user-attachments/assets/6186acc6-e89c-4ec7-917d-f42bfe3eeffb" />
