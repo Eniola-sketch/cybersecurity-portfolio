@@ -156,3 +156,31 @@ Cybercriminals may steal intellectual property such as inventions, trade secrets
 
 ### Key Takeaway
 Data breaches can affect much more than just computer systems. They can cause financial losses, damage a company's reputation, expose customers to fraud and result in the loss of valuable business information.
+# Types of Malware
+
+## Spyware
+Spyware is malware that secretly monitors a user's activity. It can record information such as keystrokes and may collect sensitive information, including usernames, passwords and financial details. Spyware can sometimes be disguised as legitimate software or delivered through a Trojan.
+
+## Adware
+Adware is software that displays unwanted advertisements, such as pop-ups, on a user's device. Some malicious forms of adware may also track browsing activity or redirect users to unsafe websites.
+
+## Backdoor
+A backdoor provides a way to access a computer system while bypassing normal authentication or security controls. Attackers can use backdoors to gain unauthorised access, and they can sometimes be difficult to detect.
+
+## Ransomware
+Ransomware is malware that prevents users from accessing their files or systems, usually by encrypting them. The attacker then demands a ransom in exchange for restoring access. Ransomware is commonly delivered through methods such as phishing emails.
+
+## Scareware
+Scareware uses fake or alarming warnings to trick users into taking an action, such as clicking a link or downloading software. For example, a fake warning might claim that the computer is infected and that the user needs to install a program to fix it. The downloaded program could actually contain malware.
+
+## Rootkit
+A rootkit is malware designed to gain or maintain privileged access to a system while attempting to hide its presence. Rootkits can modify or interact with parts of the operating system to conceal malicious activity.
+
+## Virus
+A virus is malware that can replicate by attaching itself to other files or programs. It generally requires some form of user interaction, such as running an infected file, to spread.
+
+## Trojan Horse
+A Trojan horse is malware that disguises itself as legitimate or useful software. The user may believe they are installing a normal program, while the software actually performs malicious actions.
+
+## Worm
+A worm is malware that can replicate and spread between systems without requiring the user to manually run an infected file on each system. This ability allows worms to spread rapidly across networks.
