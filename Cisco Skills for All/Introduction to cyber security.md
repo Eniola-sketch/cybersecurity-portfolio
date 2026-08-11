@@ -142,3 +142,17 @@ Organisations should have clear policies and incident response procedures for de
 
 ## What makes this a phishing email?
 <img width="1283" height="607" alt="image" src="https://github.com/user-attachments/assets/f8afe668-e850-4165-8e70-81c4c3f7f208" />
+
+## Consequences of Data Breaches
+
+### 1. Reputational Damage
+A data breach can damage a company's reputation. If cybercriminals steal customer information or compromise customer data, customers may lose trust in the company and move to competitors. The company may also face financial penalties and legal consequences.
+
+### 2. Theft and Fraud
+Stolen customer credentials or personal information can be used by cybercriminals to commit fraud or target victims. This can cause financial losses and harm to the affected customers.
+
+### 3. Damaged Intellectual Property
+Cybercriminals may steal intellectual property such as inventions, trade secrets, confidential documents and business information. This information could potentially be given or sold to competitors, giving them an unfair advantage.
+
+### Key Takeaway
+Data breaches can affect much more than just computer systems. They can cause financial losses, damage a company's reputation, expose customers to fraud and result in the loss of valuable business information.
