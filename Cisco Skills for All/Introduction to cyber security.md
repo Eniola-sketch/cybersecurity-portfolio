@@ -184,3 +184,109 @@ A Trojan horse is malware that disguises itself as legitimate or useful software
 
 ## Worm
 A worm is malware that can replicate and spread between systems without requiring the user to manually run an infected file on each system. This ability allows worms to spread rapidly across networks.
+# Methods of Infiltration in a Cyber Attack
+
+## Social Engineering
+
+Social engineering is the manipulation of authorised users or personnel into revealing confidential information or performing actions that could compromise security.
+
+### Types of Social Engineering
+
+#### Pretexting
+
+Pretexting is when an attacker creates a false identity or scenario to trick an authorised user into revealing information.
+
+For example, an attacker may pretend to be an IT support employee and ask someone for personal information in order to "confirm their identity".
+
+#### Tailgating
+
+Tailgating is when an unauthorised person gains access to a restricted area by following an authorised person.
+
+For example, an attacker could follow an employee into a secure server room without having the required access credentials.
+
+#### Quid Pro Quo
+
+Quid pro quo means **"something for something"**. This is when an attacker offers something to a user in exchange for information or access.
+
+For example, an attacker may pretend to offer technical support or a free service in exchange for sensitive information.
+
+---
+
+## Denial of Service (DoS)
+
+A Denial of Service (DoS) attack is an attack that attempts to make a network, system, or service unavailable to legitimate users.
+
+### Overwhelming Traffic
+
+One way a DoS attack can be carried out is by sending an enormous amount of traffic to a network or server.
+
+If the target receives more traffic than it can handle, this can cause:
+
+- Slow performance
+- Service disruption
+- System crashes
+- Legitimate users being unable to access the service
+
+### Malformed Packets
+
+Another method involves sending malformed or specially crafted packets to a target.
+
+Packets are small units of data sent from a source to a receiver across a network. If a system cannot correctly process certain packets, this may cause errors, slow performance, or potentially make the service unavailable.
+
+### Impact of a DoS Attack
+
+A successful DoS attack can result in:
+
+- Financial losses
+- Loss of productivity
+- Service downtime
+- Damage to an organisation's reputation
+
+---
+
+## Distributed Denial of Service (DDoS)
+
+A Distributed Denial of Service (DDoS) attack is similar to a DoS attack. However, instead of the attack coming from one source, the attack comes from multiple coordinated devices.
+
+Attackers may use a **botnet**, which is a group of compromised devices controlled by an attacker.
+
+These devices can simultaneously send large amounts of traffic towards a target, such as a web server, with the aim of overwhelming it and preventing legitimate users from accessing the service.
+
+## DoS vs DDoS
+
+| DoS | DDoS |
+|---|---|
+| Usually originates from a single source | Originates from multiple sources |
+| Can be easier to identify and block | Can be more difficult to identify and mitigate |
+| Uses one attacking system | May use a botnet of compromised devices |
+## Botnet
+
+A **botnet** is a network of infected devices, known as **bots**, that are controlled remotely by an attacker through a command-and-control (C2) system.
+
+Botnets can be used to carry out malicious activities such as:
+
+- **DDoS attacks**
+- Sending **spam emails**
+- Distributing **malware**
+- Performing **brute-force attacks**
+- <img width="929" height="400" alt="image" src="https://github.com/user-attachments/assets/e306d96a-ff94-4b36-972a-5081f134a3a9" />
+
+## On-Path Attack
+
+An **on-path attack** occurs when an attacker intercepts or modifies information being transmitted between two parties. The attacker may attempt to steal sensitive information or alter the communication. This type of attack is also commonly known as a **Man-in-the-Middle (MitM) attack**.
+
+### Man-in-the-Middle (MitM)
+
+A **Man-in-the-Middle attack** occurs when an attacker secretly positions themselves between two communicating parties. For example, if you are communicating with your bank, an attacker could intercept the communication between you and the bank to potentially capture or modify information.
+
+### Man-in-the-Mobile (MitMo)
+
+A **Man-in-the-Mobile attack** targets a mobile device. If an attacker gains control or malicious access to the device, they may be able to intercept sensitive information sent to it, such as authentication or verification codes.
+
+## SEO Poisoning
+
+**SEO poisoning** is a technique where attackers manipulate search engine results to make malicious websites appear higher in search results. The goal is to attract more users to these malicious websites, where they may be exposed to scams, malware, or other threats.
+
+## Wi-Fi Password Cracking
+
+**Wi-Fi password cracking** refers to attempts to gain unauthorised access to a Wi-Fi network by discovering or bypassing its password rather than being legitimately given access.
