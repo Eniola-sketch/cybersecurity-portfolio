@@ -288,5 +288,17 @@ A **Man-in-the-Mobile attack** targets a mobile device. If an attacker gains con
 **SEO poisoning** is a technique where attackers manipulate search engine results to make malicious websites appear higher in search results. The goal is to attract more users to these malicious websites, where they may be exposed to scams, malware, or other threats.
 
 ## Wi-Fi Password Cracking
+## Types of Password Cracking
 
+### Brute-Force Attack
+A **brute-force attack** involves trying many possible combinations of characters until the correct password is discovered.
+
+### Rainbow Table Attack
+A **rainbow table attack** uses precomputed tables of **hashed passwords** to try to match a stolen password hash to its original password.
+
+### Dictionary Attack
+A **dictionary attack** involves trying a list of commonly used passwords and words in an attempt to find the correct password.
+
+### Password Spraying
+**Password spraying** involves trying one or a small number of commonly used passwords against **many different accounts**, rather than trying many passwords against a single account.
 **Wi-Fi password cracking** refers to attempts to gain unauthorised access to a Wi-Fi network by discovering or bypassing its password rather than being legitimately given access.
